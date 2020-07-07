@@ -1,6 +1,7 @@
+/* General style */
 *{
 	box-sizing: border-box;
-  font: oblique bold 100% cursive;
+  font: oblique bold 100%;
 }
 h1{
 	text-align: center;
